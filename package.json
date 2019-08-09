@@ -12,7 +12,8 @@
     "url": "git+https://github.com/Easybuoy/node-api-testing.git"
   },
   "jest": {
-    "testEnvironment": "node"
+    "testEnvironment": "node",
+    "modulePathIgnorePatterns": ["<rootDir>/node_modules/"]
   },
   "keywords": [],
   "author": "",
