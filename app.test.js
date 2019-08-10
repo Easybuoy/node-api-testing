@@ -4,7 +4,7 @@ const chaiHttp = require("chai-http");
 
 const { expect } = chai;
 chai.use(chaiHttp);
-describe("Server", () => {
+describe("Server!", () => {
   it("welcomes user to the api", async done => {
     let response = await chai.request(app).get("/");
     expect(response).to.have.status(200);
