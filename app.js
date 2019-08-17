@@ -15,7 +15,6 @@ app.post("/add", (req, res) => {
   };
   res.json({
     status: "success",
-    result: "Welcome To Testing API",
     result: add(num1, num2)
   });
 });
