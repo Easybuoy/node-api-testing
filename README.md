@@ -1,7 +1,7 @@
 # node-api-testing
 This project was created for showing how to test a node api using Mocha and Chai.
 
-Link to article: 
+Link to article: https://dev.to/easybuoy/testing-node-api-with-mocha-chai-248b
 
 ## Getting Started
 
