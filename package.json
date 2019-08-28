@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "mocha  --exit || true",
+    "test": "mocha --exit || true",
     "start": "node app"
   },
   "repository": {

@@ -1,7 +1,9 @@
+[![Build Status](https://travis-ci.org/Easybuoy/node-api-testing.svg?branch=master)](https://travis-ci.org/Easybuoy/node-api-testing)
+
 # node-api-testing
 This project was created for showing how to test a node api using Mocha and Chai.
 
-Link to article: https://dev.to/easybuoy/testing-node-api-with-mocha-chai-248b
+Link to testing article: https://dev.to/easybuoy/testing-node-api-with-mocha-chai-248b
 
 ## Getting Started
 
