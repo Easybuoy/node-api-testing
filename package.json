@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "mocha --exit || true",
-    "start": "node app"
+    "start": "node app",
+    "coverage": "nyc npm test && nyc report --reporter=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,8 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
-    "mocha": "^6.2.0"
+    "coveralls": "^3.0.6",
+    "mocha": "^6.2.0",
+    "nyc": "^14.1.1"
   }
 }

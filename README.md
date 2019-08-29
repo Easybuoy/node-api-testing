@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Easybuoy/node-api-testing.svg?branch=master)](https://travis-ci.org/Easybuoy/node-api-testing)
+[![Coverage Status](https://coveralls.io/repos/github/Easybuoy/node-api-testing/badge.svg?branch=master)](https://coveralls.io/github/Easybuoy/node-api-testing?branch=master)
 
 # node-api-testing
 This project was created for showing how to test a node api using Mocha and Chai.
